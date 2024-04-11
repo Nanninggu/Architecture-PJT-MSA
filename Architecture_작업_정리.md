@@ -1,6 +1,4 @@
-# Architecture01
-나중에 입력하기
-![image](https://github.com/Nanninggu/Architecture01/assets/54211801/75e6ada7-f2c2-4e98-9fa3-0c8059e2f8ae)
-## TEST_01
+# 구성한 아키텍처 정리
 
-### TEST_001
+1. 요건 설명
+2. 
